@@ -1,4 +1,4 @@
 <h1 align="center">💙 my crush 💙</h1>
 <div align="center">
-  <img src=https://user-images.githubusercontent.com/45568826/199990600-416f73d5-c040-4dc2-8cae-30b4d01831ee.png width=500px height=375px>
+  <img src=https://user-images.githubusercontent.com/45568826/199994292-ff000b70-ea2b-43b8-a574-c7237fc3ea00.jpg width=500px height=375px>
 </div>
